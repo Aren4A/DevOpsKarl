@@ -1,0 +1,7 @@
+.big_news img{
+    display: flex;
+    justify-content: row;
+    align-items: row;
+    width: 50%;
+    
+}
